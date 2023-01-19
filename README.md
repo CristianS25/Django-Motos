@@ -3,10 +3,12 @@
 Este repositorio contiene un proyecto DJANGO que pone a prueba los metodos GET, POST, EDIT y DELETE. <br />
 Usamos como ejemplo de validación los datos de motos. <br />
 
-- Buscar
-- Actualizar 
-- leer
-- Eliminar
+- id
+- Nombre
+- Imagen
+- Precio
+- Marca
+- Año
 
 ## Importante
 En la siguiente ubiciación "app_motos/requeriments.txt" encontrarás las dependencias para poder ejecutar el proyecto sin ningún inconveniente. <br />
